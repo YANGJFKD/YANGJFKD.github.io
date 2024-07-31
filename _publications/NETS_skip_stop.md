@@ -5,7 +5,7 @@ permalink: /publication/NETS_skip_stop
 excerpt: 'This paper is about design a station-skip express subway service for urban metro systems.'
 date: 2023-06-01
 venue: 'Networks and Spatial Economics'
-paperurl: 'http://YANGJFKD.github.io/files/Optimization of station-skip in a cyclic express subway service.pdf'
+paperurl: 'http://YANGJFKD.github.io/files/Optimization of Station-Skip in a Cyclic Express S.pdf'
 citation: 'Yang, J., Wang, H., & Jin, J. (2023). Optimization of station-skip in a cyclic express subway service. Networks and Spatial Economics, 23(2), 445-468.'
 ---
 
