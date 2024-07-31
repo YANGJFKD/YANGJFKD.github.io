@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Reseach Scientist @ ASTAR"
   location         : "Singapore"
-  employer         : "Agency for Science, Technology and Research (A*STAR)"
+  employer         : "A*STAR"
   uri              : # URL
   email            : "yang_jingfeng@simtech.a-star.edu.sg" 
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jingfeng-yang/"
+  linkedin         : &linkedin "jingfeng-yang"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
