@@ -1,7 +1,7 @@
 ---
 title: "Optimization of customer service and driver dispatch areas for on-demand food delivery"
 collection: publications
-permalink: /publication/Optimization of customer service and driver dispatch areas for on-demand food delivery
+permalink: /publication/TRC_food_delivery
 excerpt: 'This paper focus on optimizing the supply and demand for on-demand food delivery services by adjusting the service area.'
 date: 2024-08
 venue: 'Transportation Research Part C: Emerging Technologies'
