@@ -3,7 +3,7 @@ title: "Optimization of customer service and driver dispatch areas for on-demand
 collection: publications
 permalink: /publication/TRC_food_delivery
 excerpt: 'This paper focus on optimizing the supply and demand for on-demand food delivery services by adjusting the service area.'
-date: 2024-08
+date: 2024-08-01
 venue: 'Transportation Research Part C: Emerging Technologies'
 slidesurl: 'http://YANGJFKD.github.io/files/slides1.pdf'
 paperurl: 'http://YANGJFKD.github.io/files/Optimization of customer service and driver dispatch areas for on-demand food delivery.pdf'
