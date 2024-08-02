@@ -1,5 +1,6 @@
 ---
 title: "Optimizing passenger flow control and bus‐bridging service for commuting metro lines"
+pubtype: 'journal'
 collection: publications
 permalink: /publication/CA_passenger_flow
 excerpt: 'This paper is about the optimization of passenger flow control and bus bridging service for Shanghai Metro System.'
