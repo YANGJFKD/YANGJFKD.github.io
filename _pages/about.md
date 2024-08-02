@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Scientist in the Singapore Institute of Manufacturing Technology ([SIMTech](https://www.a-star.edu.sg/simtech)), Agency for Science, Technology and Research ([A*STAR](https://www.a-star.edu.sg/)). I received my PhD degree in Computer Science from [Singapore Management University](https://computing.smu.edu.sg/), advised by [Prof. Hai Wang](http://wang-hai.net/) and earned both Master and Bachelor degree in Transportation Engineering from [Shanghai Jiao Tong University](https://naoce.sjtu.edu.cn/), under the supervision of [Prof. Jiangang Jin](https://jiangangjin.github.io/index.html). My current research centers on the application of modeling and optimization to transportation and logistics systems.
+I am a Research Scientist in the Singapore Institute of Manufacturing Technology ([SIMTech](https://www.a-star.edu.sg/simtech)), Agency for Science, Technology and Research ([A*STAR](https://www.a-star.edu.sg/)). I received my PhD degree in Computer Science from [Singapore Management University](https://computing.smu.edu.sg/), worked with [Prof. Hai Wang](http://wang-hai.net/) and earned both Master and Bachelor degree in Transportation Engineering from [Shanghai Jiao Tong University](https://naoce.sjtu.edu.cn/), under the supervision of [Prof. Jiangang Jin](https://jiangangjin.github.io/index.html). My current research centers on the application of modeling and optimization to transportation and logistics systems.
 
 Education
 ======
