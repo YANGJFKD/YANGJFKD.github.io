@@ -5,7 +5,7 @@ permalink: /publication/CA_passenger_flow
 excerpt: 'This paper is about the optimization of passenger flow control and bus bridging service for Shanghai Metro System.'
 date: 2017-07-01
 venue: 'Computer‐Aided Civil and Infrastructure Engineering'
-# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+slidesurl: 'http://YANGJFKD.github.io/files/slides2.pdf'
 paperurl: 'http://YANGJFKD.github.io/files/Optimizing Passenger Flow Control and Bus‐Bridging.pdf'
 citation: 'Yang, J., Jin, J. G., Wu, J., & Jiang, X. (2017). Optimizing passenger flow control and bus‐bridging service for commuting metro lines. Computer‐Aided Civil and Infrastructure Engineering, 32(6), 458-473.'
 ---
