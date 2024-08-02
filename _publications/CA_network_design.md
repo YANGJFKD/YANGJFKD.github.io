@@ -1,5 +1,6 @@
 ---
 title: "Strategic network expansion of urban rapid transit systems: A bi‐objective programming model"
+pubtype: 'journal'
 collection: publications
 permalink: /publication/CA_network_design
 excerpt: 'This paper propose a bi-objective programming approach for metro network design.'
