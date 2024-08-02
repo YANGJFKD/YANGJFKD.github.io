@@ -1,5 +1,6 @@
 ---
 title: "Optimization of station-skip in a cyclic express subway service"
+pubtype: 'journal'
 collection: publications
 permalink: /publication/NETS_skip_stop
 excerpt: 'This paper is about design a station-skip express subway service for urban metro systems.'
