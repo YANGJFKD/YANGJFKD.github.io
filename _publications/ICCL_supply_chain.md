@@ -4,7 +4,7 @@ pubtype: 'conference'
 collection: publications
 permalink: /publication/ICCL_supply_chain
 excerpt: 'This paper develop a supplier-focused risk evaluation metric that constrains a procurement optimization model for a global technology company.'
-date: 202-09-14
+date: 2022-09-14
 venue: 'International Conference on Computational Logistics'
 paperurl: 'http://YANGJFKD.github.io/files/Risk-aware procurement optimization.pdf'
 citation: 'Chase, J., Yang, J., & Lau, H. C. (2022, September). Risk-Aware Procurement Optimization in a Global Technology Supply Chain. In International Conference on Computational Logistics (pp. 382-396). Cham: Springer International Publishing.'
